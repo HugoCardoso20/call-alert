@@ -1,0 +1,15 @@
+CREATE TABLE aluno
+( ra(10) NOT NULL,
+  senha varchar2(50) NOT NULL
+);
+
+CREATE TABLE visitante
+( cpf(11) NOT NULL,
+  senha varchar2(50) NOT NULL
+);
+
+INSERT INTO aluno (ra, senha)
+VALUES (104197, "mypassword");
+
+INSERT INTO visitante (cpf, senha)
+VALUES (49874684758, "mypassword2");
