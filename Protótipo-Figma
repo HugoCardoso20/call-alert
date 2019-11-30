@@ -1,0 +1,669 @@
+/* Android - 1 */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* Android - 4 */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* Android - 2 */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* Android - 3 */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFFFFF;
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 163px;
+height: 168px;
+
+background: url(image.png);
+
+
+/* iPad mini - 1 */
+
+
+position: relative;
+width: 768px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 332px;
+height: 78px;
+left: 398px;
+top: 769px;
+
+background: #C4C4C4;
+
+
+/* Anterior */
+
+
+position: absolute;
+width: 218px;
+height: 42px;
+left: 502px;
+top: 787px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 332px;
+height: 78px;
+left: 809px;
+top: 766px;
+
+background: #C4C4C4;
+
+
+/* Próximo */
+
+
+position: absolute;
+width: 218px;
+height: 42px;
+left: 912px;
+top: 787px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+
+
+/* Mônica A. Campos */
+
+
+position: absolute;
+width: 203px;
+height: 49px;
+left: 1216px;
+top: 167px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Senha: 2 Secretaria */
+
+
+position: absolute;
+width: 137px;
+height: 45px;
+left: 1216px;
+top: 200px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Atendido */
+
+
+position: absolute;
+width: 127px;
+height: 45px;
+left: 1240px;
+top: 227px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Hugo R Cardoso */
+
+
+position: absolute;
+width: 203px;
+height: 49px;
+left: 1216px;
+top: 540px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Senha: 5 Secretaria */
+
+
+position: absolute;
+width: 137px;
+height: 45px;
+left: 1204px;
+top: 573px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Atendido */
+
+
+position: absolute;
+width: 127px;
+height: 45px;
+left: 1228px;
+top: 600px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Pedro C. Batista */
+
+
+position: absolute;
+width: 203px;
+height: 49px;
+left: 1216px;
+top: 411px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Senha: 4 Negocação */
+
+
+position: absolute;
+width: 137px;
+height: 45px;
+left: 1216px;
+top: 444px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Atendido */
+
+
+position: absolute;
+width: 127px;
+height: 45px;
+left: 1240px;
+top: 471px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Mônica A. Campos */
+
+
+position: absolute;
+width: 203px;
+height: 49px;
+left: 1216px;
+top: 282px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Senha: 3 Negociação */
+
+
+position: absolute;
+width: 137px;
+height: 45px;
+left: 1216px;
+top: 315px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Atendido */
+
+
+position: absolute;
+width: 127px;
+height: 45px;
+left: 1240px;
+top: 342px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Larissa A. Santos */
+
+
+position: absolute;
+width: 184px;
+height: 46px;
+left: 160px;
+top: 365px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Senha: 1 Negociação */
+
+
+position: absolute;
+width: 146px;
+height: 42px;
+left: 147px;
+top: 398px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Atendido */
+
+
+position: absolute;
+width: 115px;
+height: 42px;
+left: 178px;
+top: 430px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Larissa A. Santos */
+
+
+position: absolute;
+width: 184px;
+height: 46px;
+left: 172px;
+top: 491px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Senha: 2 Negociaçãp */
+
+
+position: absolute;
+width: 146px;
+height: 42px;
+left: 155px;
+top: 524px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Atendido */
+
+
+position: absolute;
+width: 115px;
+height: 42px;
+left: 172px;
+top: 556px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* LISTA DE ATENDIMENTO */
+
+
+position: absolute;
+width: 247px;
+height: 30px;
+left: 127px;
+top: 73px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* Rectangle 22 */
+
+
+position: absolute;
+width: 488px;
+height: 415px;
+left: 523px;
+top: 162px;
+
+background: #F8F0F0;
+
+
+/* Larissa A .Santos */
+
+
+position: absolute;
+width: 186px;
+height: 28px;
+left: 627px;
+top: 221px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+
+/* RA:147845 */
+
+
+position: absolute;
+width: 155px;
+height: 39px;
+left: 658px;
+top: 260px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+
+/* image 4 */
+
+
+position: absolute;
+width: 140px;
+height: 143px;
+left: 847px;
+top: 185px;
+
+background: url(image.png);
+border-radius: 320px;
+
+
+/* Sendo Atendida */
+
+
+position: absolute;
+width: 319px;
+height: 116px;
+left: 645px;
+top: 440px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+
+
+/* Gerenciador de Senhas */
+
+
+position: absolute;
+width: 392px;
+height: 76px;
+left: 613px;
+top: 49px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+
+
+/* Rectangle 23 */
+
+
+position: absolute;
+width: 400px;
+height: 95px;
+left: 564px;
+top: 884px;
+
+background: #C4C4C4;
+
+
+/* Chamar novamente */
+
+
+position: absolute;
+width: 336px;
+height: 63px;
+left: 613px;
+top: 909px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+
+
+/* Pedagogia - Noturno */
+
+
+position: absolute;
+width: 415px;
+height: 77px;
+left: 613px;
+top: 307px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+
+/* Turma: CT34N */
+
+
+position: absolute;
+width: 258px;
+height: 63px;
+left: 652px;
+top: 356px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+
+/* Próximas Senhas: */
+
+
+position: absolute;
+width: 315px;
+height: 34px;
+left: 1183px;
+top: 74px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
