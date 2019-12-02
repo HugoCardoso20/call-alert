@@ -1,0 +1,40 @@
+<!-- Android - 1 -->
+<div class="frame" id="n4_3">
+	<!-- Rectangle 1 -->
+	<div class="left top rectangle" id="n4_4"></div>
+	<!-- Rectangle 2 -->
+	<div class="left top rectangle" id="n4_5"></div>
+	<!-- Rectangle 4 -->
+	<div class="left top rectangle" id="n4_8"></div>
+	<!-- Login -->
+	<div class="left top text" id="n4_13"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Login</div>
+	<!-- Cadastrar -->
+	<div class="left top text" id="n4_12">Cadastrar</div>
+	<!-- cabfc2cf-01de-4184-b360-f59d177608d5_200x200 1 -->
+	<div class="left top rectangle" id="n5_3"></div>
+</div>
+
+<!-- Android - 4 -->
+<div class="frame" id="n5_37">
+	<!-- Rectangle 1 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/55b3/a6ea/e2caa2971455ef84c2719e38121fc253" width="205" height="204" class="left top vector" id="n5_38">
+		<!-- Leitor de QR CODE -->
+		<div class="left top text" id="n5_46">Leitor de QR CODE</div>
+		<!-- Aproxime o leitor sobre o código QRCODE -->
+		<div class="left top text" id="n5_47">Aproxime o leitor sobre o código QRCODE</div>
+		<!-- Rectangle 5 -->
+		<div class="left top rectangle" id="n5_51"></div>
+		<!-- Cancelar -->
+		<div class="left top text" id="n5_52">Cancelar</div>
+		<!-- Ellipse 1 -->
+		<div class="svg-wrapper left top ellipse" id="n5_57">
+			<svg height="123" width="133">			
+				<ellipse cx="66.5" cy="61.5" rx="66.5" ry="61.5" style="fill:rgba(196, 196, 196, 1);"></ellipse>
+			</svg>
+		</div>
+		<!-- image 2 -->
+		<div class="left top rectangle" id="n5_59"></div>
+		<!-- Logado como: Hugo R. Cardoso -->
+		<div class="left top text" id="n5_60">Logado como:<br><br>Hugo R. Cardoso
+		</div>
+	</div>
